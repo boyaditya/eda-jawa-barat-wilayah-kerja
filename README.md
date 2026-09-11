@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
 [![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)](notebooks/eda-jawa-barat-wilayah-kerja.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boyaditya/EDA-Work-Area-Decision-Making/blob/main/notebooks/eda-jawa-barat-wilayah-kerja.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boyaditya/eda-jawa-barat-wilayah-kerja/blob/main/notebooks/eda-jawa-barat-wilayah-kerja.ipynb)
 [![Data](https://img.shields.io/badge/Data-Open_Data_Jabar-green)](data/DICTIONARY.md)
 
 > Di mana sebaiknya bekerja di Jawa Barat? Analisis ini membandingkan **27 kabupaten/kota** berdasarkan **Upah Minimum (UMK), Pengeluaran per Kapita, Jumlah Penduduk Bekerja, Garis Kemiskinan, dan Inflasi** untuk membantu pengambilan keputusan.
@@ -63,8 +63,8 @@ Detail kolom: [`data/DICTIONARY.md`](data/DICTIONARY.md). Irisan aman untuk gabu
 **Opsi 2 — Lokal:**
 
 ```bash
-git clone https://github.com/boyaditya/EDA-Work-Area-Decision-Making.git
-cd EDA-Work-Area-Decision-Making
+git clone https://github.com/boyaditya/eda-jawa-barat-wilayah-kerja.git
+cd eda-jawa-barat-wilayah-kerja
 pip install -r requirements.txt
 jupyter lab notebooks/eda-jawa-barat-wilayah-kerja.ipynb
 ```
