@@ -115,4 +115,4 @@ jupyter lab notebooks/eda-jawa-barat-wilayah-kerja.ipynb
 4. Raya Cahya Nurani (2205714)
 5. Septiani Eka Putri (2206000)
 
-Dibuat awal 24 Sep 2023, diperbaiki 1 Okt 2023. Restruktur repo untuk portofolio: deduplikasi V1/V2, arsip V1, rename tanpa spasi.
+Dibuat awal 24 Sep 2023, diperbaiki 1 Okt 2023.
